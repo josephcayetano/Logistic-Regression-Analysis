@@ -1,5 +1,12 @@
 # D600-Task-2-Logistic-Regression-Analysis
+### Overview
 
+### Logistic Regression – Luxury Home Classification
+-	Developed a logistic regression model to classify homes as ‘luxury’ based on 12+ predictors (e.g., NumBathrooms, LocalAmenities).
+-	Optimized the model via backward stepwise elimination, achieving ~75% accuracy on test data.
+-	Performed EDA and hypothesis testing; evaluated performance using confusion matrix and accuracy metrics.
+
+### Files
 1. README.md - A file describing other files in this repository.
 
 2. D600_Task2_Final.ipynb - A Jupyter Notebook that contains the code for logistic regression analysis.
