@@ -1,5 +1,6 @@
 # D600-Task-2-Logistic-Regression-Analysis
 ### Overview
+This project applies logistic regression to classify homes as "luxury" based on property and neighborhood features. The analysis includes data preprocessing, exploratory data analysis (EDA), and feature selection to optimize model performance. The final model is evaluated using accuracy, confusion matrix, and other classification metrics to assess predictive quality.
 
 ### Logistic Regression – Luxury Home Classification
 -	Developed a logistic regression model to classify homes as ‘luxury’ based on 12+ predictors (e.g., NumBathrooms, LocalAmenities).
