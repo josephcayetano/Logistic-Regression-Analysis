@@ -1,11 +1,11 @@
 # Logistic Regression Analysis
 ### Overview
-This project applies logistic regression to classify homes as "luxury" based on property and neighborhood features. The analysis includes data preprocessing, exploratory data analysis (EDA), and feature selection to optimize model performance. The final model is evaluated using accuracy, confusion matrix, and other classification metrics to assess predictive quality.
+This project used logistic regression to classify whether a home is "luxury" based on property and neighborhood features. It involved cleaning the data, exploring key patterns (EDA), and selecting the most useful features. The model’s performance was evaluated using accuracy and a confusion matrix.
 
 ### Logistic Regression – Luxury Home Classification
--	Developed a logistic regression model to classify homes as ‘luxury’ based on 12+ predictors (e.g., NumBathrooms, LocalAmenities).
--	Optimized the model via backward stepwise elimination, achieving ~75% accuracy on test data.
--	Performed EDA and hypothesis testing; evaluated performance using confusion matrix and accuracy metrics.
+-	Built a logistic regression model to predict if a home is “luxury” using over 12 features like number of bathrooms and nearby amenities
+-	Improved accuracy to about 75% using backward stepwise elimination
+-	Used EDA and hypothesis testing to guide feature selection and evaluated results with classification metrics
 
 ### Files
 1. README.md - A file describing other files in this repository.
